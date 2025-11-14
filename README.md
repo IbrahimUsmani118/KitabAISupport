@@ -1,3 +1,10 @@
+<style>
+/* Force Times New Roman globally */
+body, html, p, li, h1, h2, h3, h4, h5, h6 {
+    font-family: "Times New Roman", Times, serif !important;
+}
+</style>
+
 # Kitab AI — Support Page
 
 _Last updated: **November 2025**_
